@@ -1,0 +1,10 @@
+*.blend1
+*.blend2
+*.blend@
+
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
